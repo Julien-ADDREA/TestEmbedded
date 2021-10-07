@@ -1,0 +1,9 @@
+[submodule "A"]
+	path = A
+	url = https://github.com/xiehui999/SmallAppForQQ
+[submodule "B"]
+	path = B
+	url = https://github.com/mikefowler/smallworld.js
+[submodule "C"]
+	path = C
+	url = https://github.com/aidenZou/SmallApp
